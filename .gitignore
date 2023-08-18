@@ -1,0 +1,2 @@
+*.hnn_configure.bazelrc
+*build*
